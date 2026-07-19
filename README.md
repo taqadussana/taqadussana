@@ -1,18 +1,85 @@
-# 💫 About Me:
-About Me :<br><br>🛠️ I’m currently working on: Machine Learning projects using Python and C#<br><br>👫 I’m looking to collaborate on: Open-source AI and ML projects, or Python/C# applications<br><br>🤝 I’m looking for help with: Advanced Machine Learning algorithms and real-world AI implementations<br><br>🌱 I’m currently learning: Deep Learning, Data Science, and software development best practices<br><br>💬 Ask me about: Python, C#, Machine Learning, AI concepts, and coding projects<br><br>⚡ Fun fact: I’m a 4th-semester AI student at PAF-KIET, passionate about turning data into insights
+# Hi, I'm Taqadus Sana
 
+Third-Year BS Artificial Intelligence Student at PAF-KIET (Karachi Institute of Economics & Technology)
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/taqadus-sana-a04521353) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:taqadussana@gmail.com) 
+I am passionate about Artificial Intelligence, Machine Learning, Natural Language Processing, and Data Science. I enjoy building AI-powered applications that solve real-world problems using Python, Machine Learning, and modern development tools.
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=taqadussana&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=taqadussana&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=taqadussana&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<p>
+  <a href="https://www.linkedin.com/in/taqadus-sana"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="mailto:your-email@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=taqadussana&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Current Focus
+- Building AI-powered web applications using Python and Streamlit
+- Exploring real-world AI solutions through practical projects
+
+## Open To
+- AI & Machine Learning Internships
+- Freelance Projects
+- Open Source Contributions
+- Research Collaborations
+
+---
+
+## Technical Skills
+
+**Programming Languages**
+Python, C#, SQL
+
+**Artificial Intelligence & Machine Learning**
+Machine Learning, Natural Language Processing (NLP), TensorFlow, PyTorch, Scikit-learn, OpenCV
+
+**Data Science**
+Pandas, NumPy, Matplotlib, Plotly
+
+**Development**
+Streamlit, Git, GitHub, VS Code, MySQL
+
+---
+
+## Featured Project
+
+### Resume Screening AI Pro
+An AI-powered ATS Resume Screening System that helps recruiters compare resumes against job descriptions.
+
+**Key Features**
+- ATS Match Scoring
+- Resume Ranking
+- Skill Gap Analysis
+- NLP-based Resume Processing
+- Interactive Dashboard
+- PDF & CSV Report Export
+
+**Live Demo:** https://resume-screening-ai-pro.streamlit.app
+**Repository:** https://github.com/taqadussana/AI-Projects
+
+---
+
+## Currently Learning
+- Deep Learning
+- Computer Vision
+- Large Language Models (LLMs)
+- MLOps
+- Cloud Deployment
+
+---
+
+## GitHub Stats
+
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=taqadussana&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=taqadussana&theme=tokyonight&hide_border=true" height="165">
+</p>
+
+---
+
+## Connect With Me
+**LinkedIn:** https://www.linkedin.com/in/taqadus-sana
+**GitHub:** https://github.com/taqadussana
+**Email:** taqadussana.com
+
+---
+
+> "Building intelligent solutions that solve real-world problems through AI."
